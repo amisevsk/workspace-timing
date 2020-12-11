@@ -1,6 +1,6 @@
 run: cleanup
 	mkdir -p past-runs
-	cp startup.log "./past-runs/startup-$$(date +%s).log"
+	mv startup.log "./past-runs/startup-$$(date +%s).log"
 	go run main.go
 
 cleanup:
