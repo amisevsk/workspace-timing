@@ -1,0 +1,1 @@
+"\(.numContainers),\(.["controller.devfile.io/timing.duration"]),\(.["controller.devfile.io/timing.components.duration"]),\(.["controller.devfile.io/timing.routing.duration"]),\(.["controller.devfile.io/timing.deployment.duration"]),\(.["controller.devfile.io/timing.healthchecks.duration"])"
